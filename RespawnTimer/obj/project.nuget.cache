@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "FFDL0Xqn3HeNUJfcU6Af4TX8785NJlyiBMAfUEn0F72qBrYSDUro0Ym1eVdHCjs3h+Z/IboqFZL/ZR3KTYqVQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xacyc\\Desktop\\Code source Synapse\\RespawnTimer\\RespawnTimer\\RespawnTimer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xacyc\\.nuget\\packages\\lib.harmony\\2.0.4\\lib.harmony.2.0.4.nupkg.sha512",
+    "C:\\Users\\xacyc\\.nuget\\packages\\litedb\\5.0.9\\litedb.5.0.9.nupkg.sha512",
+    "C:\\Users\\xacyc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\xacyc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\xacyc\\.nuget\\packages\\synapsesl\\2.5.0\\synapsesl.2.5.0.nupkg.sha512",
+    "C:\\Users\\xacyc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\xacyc\\.nuget\\packages\\yamldotnet\\8.1.2\\yamldotnet.8.1.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'Lib.Harmony 2.0.4' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' au lieu du framework cible du projet '.NETStandard,Version=v2.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "Lib.Harmony",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'SynapseSL 2.5.0' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' au lieu du framework cible du projet '.NETStandard,Version=v2.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "SynapseSL",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
