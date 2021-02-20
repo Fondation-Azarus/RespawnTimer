@@ -1,9 +1,0 @@
-C:\Users\xacyc\Desktop\Code source Synapse\RespawnTimer\RespawnTimer\bin\Release\netstandard2.0\RespawnTimer.deps.json
-C:\Users\xacyc\Desktop\Code source Synapse\RespawnTimer\RespawnTimer\bin\Release\netstandard2.0\RespawnTimer.dll
-C:\Users\xacyc\Desktop\Code source Synapse\RespawnTimer\RespawnTimer\bin\Release\netstandard2.0\RespawnTimer.pdb
-C:\Users\xacyc\Desktop\Code source Synapse\RespawnTimer\RespawnTimer\obj\Release\netstandard2.0\RespawnTimer.AssemblyInfoInputs.cache
-C:\Users\xacyc\Desktop\Code source Synapse\RespawnTimer\RespawnTimer\obj\Release\netstandard2.0\RespawnTimer.AssemblyInfo.cs
-C:\Users\xacyc\Desktop\Code source Synapse\RespawnTimer\RespawnTimer\obj\Release\netstandard2.0\RespawnTimer.csproj.CoreCompileInputs.cache
-C:\Users\xacyc\Desktop\Code source Synapse\RespawnTimer\RespawnTimer\obj\Release\netstandard2.0\RespawnTimer.dll
-C:\Users\xacyc\Desktop\Code source Synapse\RespawnTimer\RespawnTimer\obj\Release\netstandard2.0\RespawnTimer.pdb
-C:\Users\xacyc\Desktop\Code source Synapse\RespawnTimer\RespawnTimer\obj\Release\netstandard2.0\RespawnTimer.csprojAssemblyReference.cache
